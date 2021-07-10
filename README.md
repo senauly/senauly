@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Image Processing with Python.**
 
-- 📫 How to reach me **senaulukaya@outlook.com**
+- 📫 How to reach me: **senaulukaya@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
