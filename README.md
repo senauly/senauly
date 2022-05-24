@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
 <h3 align="center">I'm a 3rd year computer engineering student from Turkey.</h3>
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=senauly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a&theme=graywhite"/><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senauly&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a&theme=graywhite" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=senauly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a&theme=graywhite"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
