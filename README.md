@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senauly&show_icons=true&locale=en" alt="senauly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senauly&" alt="senauly" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senauly&hide_progress=true)](https://github.com/senauly/github-readme-stats)
