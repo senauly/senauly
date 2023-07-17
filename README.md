@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senauly&label=Profile%20views&color=0e75b6&style=flat" alt="senauly" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** and **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
